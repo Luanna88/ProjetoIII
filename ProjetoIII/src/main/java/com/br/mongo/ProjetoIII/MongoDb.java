@@ -17,7 +17,7 @@ public class MongoDb {
          // Inserir os dados semi-estruturados
             String[] dados = {
                     "Titulo, Ano, Avaliacao",
-                    "Vermelho, Branco e Sangue Azul,(2023),7.1",
+                    "Vermelho Branco e Sangue Azul,(2023),7.1",
                     "Que Horas Eu Te Pego?,(2023),6.5",
                     "Maestro,(2023),NULL",
                     "Asteroid City,(2023),6.7",
