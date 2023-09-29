@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "65163c4299657c3db29c86ac"
+  },
+  "titulo": "Titulo",
+  "ano": "Ano",
+  "avaliacao": "Avaliacao"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86ad"
+  },
+  "titulo": "Vermelho",
+  "ano": "Branco e Sangue Azul",
+  "avaliacao": "(2023)"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86ae"
+  },
+  "titulo": "Que Horas Eu Te Pego?",
+  "ano": "2023",
+  "avaliacao": "6.5"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86af"
+  },
+  "titulo": "Maestro",
+  "ano": "2023",
+  "avaliacao": "NULL"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b0"
+  },
+  "titulo": "Asteroid City",
+  "ano": "2023",
+  "avaliacao": "6.7"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b1"
+  },
+  "titulo": "Branca de Neve e os Sete AnÃµes",
+  "ano": "2024",
+  "avaliacao": "NULL"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b2"
+  },
+  "titulo": "A Pequena Sereia",
+  "ano": "I 2023",
+  "avaliacao": "7.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b3"
+  },
+  "titulo": "Felicidade para Principiantes",
+  "ano": "2023",
+  "avaliacao": "6.0"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b4"
+  },
+  "titulo": "Belo Desastre",
+  "ano": "2023",
+  "avaliacao": "5.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b5"
+  },
+  "titulo": "Minha Culpa",
+  "ano": "2023",
+  "avaliacao": "6.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b6"
+  },
+  "titulo": "Rocky Aur Rani Kii Prem Kahaani",
+  "ano": "2023",
+  "avaliacao": "7.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b7"
+  },
+  "titulo": "Meus Sogros TÃ£o pro Crime",
+  "ano": "2023",
+  "avaliacao": "5.4"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b8"
+  },
+  "titulo": "Titanic",
+  "ano": "1997",
+  "avaliacao": "7.9"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86b9"
+  },
+  "titulo": "Scott Pilgrim Contra o Mundo",
+  "ano": "2010",
+  "avaliacao": "7.5"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86ba"
+  },
+  "titulo": "Love",
+  "ano": "II 2015",
+  "avaliacao": "6.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86bb"
+  },
+  "titulo": "Orgulho & Preconceito",
+  "ano": "2005",
+  "avaliacao": "7.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86bc"
+  },
+  "titulo": "ContinÃªncia ao Amor",
+  "ano": "2022",
+  "avaliacao": "6.7"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86bd"
+  },
+  "titulo": "AtÃ© os Ossos",
+  "ano": "2022",
+  "avaliacao": "6.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86be"
+  },
+  "titulo": "Miraculous: As Aventuras de Ladybug - O Filme",
+  "ano": "2023",
+  "avaliacao": "6.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86bf"
+  },
+  "titulo": "Cidade Perdida",
+  "ano": "2022",
+  "avaliacao": "6.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c0"
+  },
+  "titulo": "Cinquenta Tons de Cinza",
+  "ano": "2015",
+  "avaliacao": "4.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c1"
+  },
+  "titulo": "Forrest Gump: O Contador de Historias",
+  "ano": "1994",
+  "avaliacao": "8.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c2"
+  },
+  "titulo": "La La Land: Cantando Estações",
+  "ano": "2016",
+  "avaliacao": "8.0"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c3"
+  },
+  "titulo": "Passagens",
+  "ano": "2023",
+  "avaliacao": "7.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c4"
+  },
+  "titulo": "Ghosted: Sem Resposta",
+  "ano": "I 2023",
+  "avaliacao": "5.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c5"
+  },
+  "titulo": "Vidas Passadas",
+  "ano": "2023",
+  "avaliacao": "8.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c6"
+  },
+  "titulo": "Diário de uma Paixão",
+  "ano": "2004",
+  "avaliacao": "7.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c7"
+  },
+  "titulo": "Adoráveis Mulheres",
+  "ano": "2019",
+  "avaliacao": "7.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c8"
+  },
+  "titulo": "Um Lugar Bem Longe Daqui",
+  "ano": "2022",
+  "avaliacao": "7.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86c9"
+  },
+  "titulo": "Crepúsculo",
+  "ano": "I 2008",
+  "avaliacao": "5.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86ca"
+  },
+  "titulo": "As Patricinhas de Beverly Hills",
+  "ano": "1995",
+  "avaliacao": "6.9"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86cb"
+  },
+  "titulo": "Satyaprem Ki Katha",
+  "ano": "2023",
+  "avaliacao": "7.4"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86cc"
+  },
+  "titulo": "Gênio Indomável",
+  "ano": "1997",
+  "avaliacao": "8.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86cd"
+  },
+  "titulo": "Thor: Amor e Trovão",
+  "ano": "2022",
+  "avaliacao": "6.2"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86ce"
+  },
+  "titulo": "10 Coisas que Eu Odeio em Você",
+  "ano": "1999",
+  "avaliacao": "7.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86cf"
+  },
+  "titulo": "Amor a Toda Prova",
+  "ano": "2011",
+  "avaliacao": "7.4"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d0"
+  },
+  "titulo": "Drácula de Bram Stoker",
+  "ano": "1992",
+  "avaliacao": "7.4"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d1"
+  },
+  "titulo": "After",
+  "ano": "I 2019",
+  "avaliacao": "5.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d2"
+  },
+  "titulo": "365 Dias",
+  "ano": "2020",
+  "avaliacao": "3.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d3"
+  },
+  "titulo": "Amizade Colorida",
+  "ano": "2011",
+  "avaliacao": "6.5"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d4"
+  },
+  "titulo": "A Princesa Prometida",
+  "ano": "1987",
+  "avaliacao": "8.0"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d5"
+  },
+  "titulo": "She Came to Me",
+  "ano": "2023",
+  "avaliacao": "NULL"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d6"
+  },
+  "titulo": "Lolita",
+  "ano": "1997",
+  "avaliacao": "6.8"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d7"
+  },
+  "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+  "ano": "2004",
+  "avaliacao": "8.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d8"
+  },
+  "titulo": "Zoey 102",
+  "ano": "2023",
+  "avaliacao": "5.0"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86d9"
+  },
+  "titulo": "Amor à Queima Roupa",
+  "ano": "1993",
+  "avaliacao": "7.9"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86da"
+  },
+  "titulo": "Um Principe em Nova York",
+  "ano": "1988",
+  "avaliacao": "7.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86db"
+  },
+  "titulo": "Quero ser Grande",
+  "ano": "1988",
+  "avaliacao": "7.3"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86dc"
+  },
+  "titulo": "Esposa de Mentirinha",
+  "ano": "2011",
+  "avaliacao": "6.4"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86dd"
+  },
+  "titulo": "A Escolha Perfeita",
+  "ano": "2012",
+  "avaliacao": "7.1"
+},
+{
+  "_id": {
+    "$oid": "65163c4399657c3db29c86de"
+  },
+  "titulo": "Me Chame pelo Seu Nome",
+  "ano": "2017",
+  "avaliacao": "7.8"
+}]
